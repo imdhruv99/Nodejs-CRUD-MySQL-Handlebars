@@ -4,4 +4,4 @@
 **.css linguist-detectable=false
 **.html linguist-detectable=false
 
-*.rb linguist-language=javascript
+*.js linguist-language=javascript
